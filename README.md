@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaushiki99 and my full name is Kaushiki Trivedi.
 - 👀 I’m interested in coding, music, and etc.
-- 🌱 I’m currently learning git, fullstack web development, java etc
+- 🌱 I’m currently learning git, fullstack web development, java and SAP ABAP and FICO etc
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me trivedi.kaushiki@gmail.com
 I'm an electrical engineering graduate graduated from TINT,KOLKATA. And i am an absolute freak for both new technologies(coding skills) and new instruments/languages. Often has ability to assess and manage complex obstacles.
